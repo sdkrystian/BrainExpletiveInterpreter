@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  Main.cpp
+c:\users\krystian\documents\visual studio 2017\projects\brainexpletiveinterpreter\brainexpletiveinterpreter\main.cpp(7): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Parser.cpp
+c:\users\krystian\documents\visual studio 2017\projects\brainexpletiveinterpreter\brainexpletiveinterpreter\parser.cpp(8): warning C4018: '<': signed/unsigned mismatch
+c:\users\krystian\documents\visual studio 2017\projects\brainexpletiveinterpreter\brainexpletiveinterpreter\parser.cpp(92): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\krystian\documents\visual studio 2017\projects\brainexpletiveinterpreter\brainexpletiveinterpreter\parser.cpp(26): warning C4715: 'GetBraceMatchClose': not all control paths return a value
+c:\users\krystian\documents\visual studio 2017\projects\brainexpletiveinterpreter\brainexpletiveinterpreter\parser.cpp(85): warning C4715: 'ExecuteIns': not all control paths return a value
+c:\users\krystian\documents\visual studio 2017\projects\brainexpletiveinterpreter\brainexpletiveinterpreter\parser.cpp(50): warning C4715: 'GetBraceMatchOpen': not all control paths return a value
+c:\users\krystian\documents\visual studio 2017\projects\brainexpletiveinterpreter\brainexpletiveinterpreter\main.cpp(14): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  BrainExpletiveInterpreter.vcxproj -> C:\Users\Krystian\Documents\Visual Studio 2017\Projects\BrainExpletiveInterpreter\Debug\BrainExpletiveInterpreter.exe
