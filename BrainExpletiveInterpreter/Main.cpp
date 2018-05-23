@@ -5,10 +5,9 @@
 
 void main()
 {
-  std::string input;
-  std::cin >> input;
-  brainexpletive::ExecuteBrainExpletive(input.c_str(), input.length());
-  std::cout << std::endl;
-  main();
-  std::cin.ignore();
+   std::string input;
+   std::cin >> input;
+   brainexpletive::ExecuteBrainExpletive(input.c_str(), input.length());
+   std::cout << std::endl;
+   std::cin.ignore();
 }
