@@ -1,7 +1,0 @@
-﻿  Main.cpp
-c:\users\krystian\desktop\-\projects\brainexpletiveinterpreter\brainexpletiveinterpreter\main.cpp(7): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Parser.cpp
-c:\users\krystian\desktop\-\projects\brainexpletiveinterpreter\brainexpletiveinterpreter\parser.cpp(8): warning C4018: '<': signed/unsigned mismatch
-c:\users\krystian\desktop\-\projects\brainexpletiveinterpreter\brainexpletiveinterpreter\parser.cpp(85): warning C4018: '<': signed/unsigned mismatch
-  Generating Code...
-  BrainExpletiveInterpreter.vcxproj -> C:\Users\Krystian\Desktop\-\Projects\BrainExpletiveInterpreter\Debug\BrainExpletiveInterpreter.exe
