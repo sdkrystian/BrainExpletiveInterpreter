@@ -1,3 +1,5 @@
+// Copyright 2018 Krystian Stasiowski
+
 #include "Parser.h"
 
 int GetBraceMatchClose(const char* str, size_t len, int brace)

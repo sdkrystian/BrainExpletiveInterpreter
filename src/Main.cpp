@@ -1,3 +1,5 @@
+// Copyright 2018 Krystian Stasiowski
+
 #include <iostream>
 #include <string>
 #include "Parser\Parser.h"
